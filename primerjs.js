@@ -11,6 +11,3 @@ function capturarInformacion() {
     const capturedValueInput = document.getElementById("capturedValue");
     capturedValueInput.value = capturedValue;
   }
-function metodopromt(){
-  Comida = prompt("Cual es tu comida favorita?");
-}
